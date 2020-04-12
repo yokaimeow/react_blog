@@ -1,4 +1,4 @@
-USE `react_blog`;
+USE `blogdb`;
 
 /*Table structure for table `admin_user` */
 
